@@ -2,7 +2,6 @@ var obj = {
   data: {
     uuid: '3e2bba7c-e3f2-4bb1-bf9c-1c406f181d46',
     apiPath: 'https://course-ec-api.hexschool.io/',
-    token: 'UkWKVIE1v6YLr24ij05oQOrFveJNuBWQLaSYld4nTcRSLMTFLic4RH0ltH8F',
     productList: []
   },
   getData() {
